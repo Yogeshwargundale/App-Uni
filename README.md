@@ -42,7 +42,7 @@ Folder : small case<br/>
 Component : start with caps<br/>
 css file :small case<br/>
 
-### Note
+### `Note`
 <ul>
 <li>make sure to add node_modules and other unnecessary files to .gitignorefile</li>
 <li>use visual studio code for better development experience</li>
